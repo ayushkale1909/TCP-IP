@@ -1,5 +1,4 @@
 # TCP-IP
-Congestion Management, Header Compression, and QoS Strategies
 
 Simulation of TCP Tahoe for a Ring Network Topolgy 
 
